@@ -13,6 +13,9 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+<!-- Favicon head tag -->
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/assets/images/favicon.ico"/>
+
   </head>
   <body>
 
@@ -23,8 +26,12 @@
 
       <div id="banner">
         <span id="logo"></span>
-
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+        
+        <a href="{{ site.baseurl }}index.html" class="button"><strong>Home</strong></a>
+        <a href="{{ site.baseurl }}about_me.html" class="button"><strong>About Me</strong></a>
+        <a href="{{ site.baseurl }}projects.html" class="button"><strong>Projects</strong></a>
+        <a href="{{ site.baseurl }}resume.html" class="button"><strong>Resume</strong></a>
+        <a href="{{ site.github.repository_url }}" target="_blank" class="button"><strong>View On GitHub</strong></a>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
