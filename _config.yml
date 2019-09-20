@@ -1,1 +1,8 @@
 theme: jekyll-theme-leap-day
+show_downloads: false
+github:
+  index: https://perrinod.github.io/index
+  about_me: https://perrinod.github.io/about_me
+  projects: https://perrinod.github.io/projects
+  resume: https://perrinod.github.io/resume
+  competitions: https://perrinod.github.io/competitions

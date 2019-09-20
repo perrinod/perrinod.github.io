@@ -20,19 +20,25 @@
   <body>
 
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <h1>{{ page.title | default: site.github.repository_name }}</h1>
+        <p>{{ page.description | default: site.github.project_tagline }}</p>
       </header>
 
       <div id="banner">
         <span id="logo"></span>
         
         <a href="{{ site.baseurl }}index.html" class="button"><strong>Home</strong></a>
-        <a href="{{ site.baseurl }}about_me.html" class="button"><strong>About Me</strong></a>
+        <a href="{{ site.baseurl }}about.html" class="button"><strong>About</strong></a>
         <a href="{{ site.baseurl }}projects.html" class="button"><strong>Projects</strong></a>
+        <a href="{{ site.baseurl }}competitions.html" class="button"><strong>Competitions</strong></a>
         <a href="{{ site.baseurl }}resume.html" class="button"><strong>Resume</strong></a>
         <a href="{{ site.github.repository_url }}" target="_blank" class="button"><strong>View On GitHub</strong></a>
-        {% if site.show_downloads %}
+        
+        {% if site.show_downloads or page.show_downloads %}
+          {% assign download_bool = true %}
+        {% endif %}
+        
+        {% if download_bool %}
           <div class="downloads">
             <span>Downloads:</span>
             <ul>
@@ -52,10 +58,7 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
+        
       </footer>
     </div>
 
