@@ -1,12 +1,13 @@
 ---
 layout: default
 title: "About"
+description: Domenick Perrino
 ---
 
 <center><h2>About Me</h2></center>
 
 ***
-Hello my name is Domenick Perrino.  I am a graduate of University of Nevada Las Vegas in Computer Science. In the next few years I would like to continue my education and obtain a Masters degree in computer science.  Currently I'm working on a video game to be released on PC and possibly a future release of it on ios and android.
+Hello, my name is Domenick Perrino.  I am a graduate of University of Nevada Las Vegas in Computer Science. In the next few years I would like to continue my education and obtain a Masters degree in computer science.  Currently I'm working on a video game to be released on PC and possibly a future release of it on ios and android.
 
 <center><h3>Contact Information and Various Links</h3></center>
 

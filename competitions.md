@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "Competitions"
+author: Domenick Perrino
+description: Coding Competitions
+tags: hacker rank, HackerRank, codingame, master the mainframe
 ---
 
 <center><h1>Previous Competitions</h1></center>
@@ -38,7 +41,7 @@ Winner of Phase 2.  Didn't compete in Phase 3.
 Build structures and train troops in order to destroy the enemy Queen.  Bot vs Bot program competition.
 
 * Current League: Silver
-* Currently Ranked: 270 in the world.
+* Currently Ranked: 19 in the United States
 
 <a href ="https://www.codingame.com/multiplayer/bot-programming/code-royale"> Codingame code royale</a>
 
@@ -49,7 +52,17 @@ Build structures and train troops in order to destroy the enemy Queen.  Bot vs B
 
 Control a chef and prepare food for customers as quickly as possible to earn more points than the other players. Co-op Bot vs Co-op Bot program competition.
 
-* Current League: Bronze
-* Currently Ranked: 331 in the world.
+* Current League: Gold
+* Currently Ranked: 6 in the United States
 
 <a href ="https://www.codingame.com/multiplayer/bot-programming/code-a-la-mode"> Codingame code a la mode</a>
+
+<center><h2>Coders Strike Back</h2></center>
+
+***
+
+Control a pod racer and win the race. Bot vs Bot programming
+
+* Current League: Silver
+
+<a href = "https://www.codingame.com/multiplayer/bot-programming/coders-strike-back"> Coders strike back</a>
