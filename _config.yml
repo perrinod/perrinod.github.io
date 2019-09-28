@@ -1,4 +1,6 @@
 theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-seo-tag
 show_downloads: false
 github:
   index: https://perrinod.github.io/index
