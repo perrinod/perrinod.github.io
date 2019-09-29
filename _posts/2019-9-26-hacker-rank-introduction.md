@@ -20,7 +20,7 @@ This blog post provides each of my solutions and their time complexity to the Ha
 
 <a href="https://www.hackerrank.com/challenges/simple-array-sum/problem" target="_blank">Hacker Rank Simple Array Sum</a>
 
-<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Problem%20Solving/Warmup/Simple%20Array%20Sum" target="_blank"> Github repository </a>
+<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Algorithms/Warmup/Simple%20Array%20Sum" target="_blank"> Github repository </a>
 
 <b>C++:</b>
 ```c++
@@ -72,7 +72,7 @@ In each one we are iterating through n elements to create their sum.
 
 <a href="https://www.hackerrank.com/challenges/compare-the-triplets/problem" target="_blank">Hacker Rank Compare The Triplets</a>
 
-<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Problem%20Solving/Warmup/Compare%20the%20Triplets" target="_blank"> Github repository </a>
+<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Algorithms/Warmup/Compare%20the%20Triplets" target="_blank"> Github repository </a>
 
 <b>C++:</b>
 ```c++
@@ -162,7 +162,7 @@ In each one we are iterating through n elements comparing each element to anothe
 
 <a href="https://www.hackerrank.com/challenges/a-very-big-sum/problem" target="_blank">Hacker Rank A Very Big Sum </a>
 
-<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Problem%20Solving/Warmup/A%20Very%20Big%20Sum" target="_blank"> Github repository </a>
+<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Algorithms/Warmup/A%20Very%20Big%20Sum" target="_blank"> Github repository </a>
 
 Solutions are virtually identical to the Simple Array Sum problem.
 
@@ -216,7 +216,7 @@ iterating through n elements to create their sum.
 
 <a href="https://www.hackerrank.com/challenges/diagonal-difference/problem" target="_blank">Hacker Rank Diagonal Difference</a>
 
-<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Problem%20Solving/Warmup/Diagonal%20Difference" target="_blank"> Github repository </a>
+<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Algorithms/Warmup/Diagonal%20Difference" target="_blank"> Github repository </a>
 
 <b>C++:</b>
 ```c++
@@ -309,7 +309,7 @@ iterating through n elements to create two different sums.
 
 <a href="https://www.hackerrank.com/challenges/plus-minus/problem" target="_blank">Hacker Rank Plus Minus</a>
 
-<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Problem%20Solving/Warmup/Plus%20Minus" target="_blank"> Github repository </a>
+<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Algorithms/Warmup/Plus%20Minus" target="_blank"> Github repository </a>
 
 <b>C++:</b>
 ```c++
@@ -400,7 +400,7 @@ iterating through n elements to create the sum of positive, negative and zero nu
 
 <a href="https://www.hackerrank.com/challenges/staircase/problem" target="_blank">Hacker Rank Staircase</a>
 
-<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Problem%20Solving/Warmup/Staircase" target="_blank"> Github repository </a>
+<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Algorithms/Warmup/Staircase" target="_blank"> Github repository </a>
 
 <b>C++:</b>
 ```c++
@@ -435,7 +435,7 @@ iterating through n elements to print a string.
 
 <a href="https://www.hackerrank.com/challenges/mini-max-sum/problem" target="_blank">Hacker Rank Mini-Max Sum</a>
 
-<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Problem%20Solving/Warmup/Mini-Max%20Sum" target="_blank"> Github repository </a>
+<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Algorithms/Warmup/Mini-Max%20Sum" target="_blank"> Github repository </a>
 
 <b>C++:</b>
 ```c++
@@ -532,7 +532,7 @@ iterating through n elements to determine minimum and maximum value.
 
 <a href="https://www.hackerrank.com/challenges/birthday-cake-candles/problem" target="_blank">Hacker Rank Birthday Cake Candles</a>
 
-<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Problem%20Solving/Warmup/Birthday%20Cake%20Candles" target="_blank"> Github repository </a>
+<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Algorithms/Warmup/Birthday%20Cake%20Candles" target="_blank"> Github repository </a>
 
 <b>C++:</b>
 ```c++
@@ -621,13 +621,13 @@ function birthdayCakeCandles(ar) {
 <b>Time Complexity:</b> O(n)
 iterating through n elements to determine the sum of the largest number
 
-<center><b>Time Conversion</b></center>
+<center><h3>Time Conversion</h3></center>
 
 ***
 
 <a href="https://www.hackerrank.com/challenges/time-conversion/problem" target="_blank">Hacker Rank Time Conversion</a>
 
-<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Problem%20Solving/Warmup/Time%20Conversion" target="_blank"> Github repository </a>
+<a href="https://github.com/perrinod/hacker-rank-solutions/tree/master/Algorithms/Warmup/Time%20Conversion" target="_blank"> Github repository </a>
 
 <b>C++:</b>
 ```c++'
