@@ -30,7 +30,7 @@ Winner of Phase 2.  Didn't compete in Phase 3.
 
 <a href="https://mtm2017.mybluemix.net/" target="_blank">Master The Mainframe 2017 Challenges</a>
 
-<center><h1>Current Competitions</h1></center>
+<center><h1>LeaderBoard Competitions</h1></center>
 
 ***
 
@@ -53,16 +53,6 @@ Build structures and train troops in order to destroy the enemy Queen.  Bot vs B
 Control a chef and prepare food for customers as quickly as possible to earn more points than the other players. Co-op Bot vs Co-op Bot program competition.
 
 * Current League: Gold
-* Currently Ranked: 6 in the United States
+* Currently Ranked: 5 in the United States
 
 <a href ="https://www.codingame.com/multiplayer/bot-programming/code-a-la-mode"> Codingame code a la mode</a>
-
-<center><h2>Coders Strike Back</h2></center>
-
-***
-
-Control a pod racer and win the race. Bot vs Bot programming
-
-* Current League: Silver
-
-<a href = "https://www.codingame.com/multiplayer/bot-programming/coders-strike-back"> Coders strike back</a>
