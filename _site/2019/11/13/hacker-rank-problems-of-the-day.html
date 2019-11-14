@@ -1,0 +1,331 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Hacker Rank Problems Of The Day (11/13/2019) | perrinod.github.io</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Hacker Rank Problems Of The Day (11/13/2019)" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="11/13/2019" />
+<meta property="og:description" content="11/13/2019" />
+<link rel="canonical" href="http://localhost:4000/2019/11/13/hacker-rank-problems-of-the-day.html" />
+<meta property="og:url" content="http://localhost:4000/2019/11/13/hacker-rank-problems-of-the-day.html" />
+<meta property="og:site_name" content="perrinod.github.io" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-11-13T00:00:00-08:00" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","headline":"Hacker Rank Problems Of The Day (11/13/2019)","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2019/11/13/hacker-rank-problems-of-the-day.html"},"datePublished":"2019-11-13T00:00:00-08:00","url":"http://localhost:4000/2019/11/13/hacker-rank-problems-of-the-day.html","description":"11/13/2019","dateModified":"2019-11-13T00:00:00-08:00","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=3d7666feac1c330060cf4f31b2e0c55e4e452b22">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="/assets/js/main.js"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+<!-- Favicon head tag -->
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico"/>
+
+  </head>
+
+  <body>
+
+      <header>
+        <h1>Hacker Rank Problems Of The Day (11/13/2019)</h1>
+        <p>11/13/2019</p>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+        
+        <a href="https://perrinod.github.io/index" class="button"><strong>Home</strong></a>
+        <a href="https://perrinod.github.io/about" class="button"><strong>About</strong></a>
+        <a href="https://perrinod.github.io/blog" class="button"><strong>Blog</strong></a>
+        <a href="https://perrinod.github.io/projects" class="button"><strong>Projects</strong></a>
+        <a href="https://perrinod.github.io/competitions" class="button"><strong>Competitions</strong></a>
+        <a href="https://perrinod.github.io/resume" class="button"><strong>Resume</strong></a>
+        <a href="https://github.com/perrinod/perrinod.github.io" target="_blank" class="button"><strong>View On GitHub</strong></a>
+        
+        
+        
+        
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+        <center><h1>Hacker Rank Problems Of The Day (11/13/2019)</h1></center>
+
+<hr />
+
+<center><h2>Game of Thrones I</h2></center>
+
+<hr />
+
+<p><a href="https://www.hackerrank.com/challenges/game-of-thrones/problem" target="_blank">Game of Thrones I</a></p>
+
+<p>Determine whether a given string can be rearranged into a palindrome. If it is possible, return YES, otherwise return NO.</p>
+
+<p>A palindrome is a word, number or pharse that reads the same backwards as foward.</p>
+
+<p>To solve this we have to understand how a palindrome can be formed.</p>
+
+<p>If the palindrome is of even length then no character can have an odd number.</p>
+
+<p>This is because if we divide the string into two equal halves both the left side and right side must must be mirror images of each other.</p>
+
+<p>This is easy to show lets start with the smallest palindrome of two characters.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>palindrome = aa
+left side = a
+right side = a
+</code></pre></div></div>
+
+<p>If we increase it by two more characters.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>palindrome = abba
+left side = ab
+right side = ba
+
+</code></pre></div></div>
+
+<p>If the palindrome is of odd length then at most one character can have an odd number.</p>
+
+<p>This is because if we divide the string into two equal halves you’re left with a middle character.  This middle character can be any character and will result in a palindrome.</p>
+
+<p>This is easy to show, lets start with a palindrome of three characters.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>palindrome = aba
+left side = a
+right side = a
+middle character = b
+</code></pre></div></div>
+
+<p>If we increase it by two more characters.</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>palindrome = abcba
+left side = ab
+right side = ba
+middle character = c
+</code></pre></div></div>
+
+<p><b>All we need to do is:</b>
+Determine the length of the string and then determine if it has too many odd characters.</p>
+
+<center><h3>Game of Thrones I Solutions:</h3></center>
+
+<hr />
+
+<p><b>C++:</b></p>
+
+<div class="language-cpp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">string</span> <span class="nf">gameOfThrones</span><span class="p">(</span><span class="n">string</span> <span class="n">s</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">std</span><span class="o">::</span><span class="n">sort</span><span class="p">(</span><span class="n">s</span><span class="p">.</span><span class="n">begin</span><span class="p">(),</span> <span class="n">s</span><span class="p">.</span><span class="n">end</span><span class="p">());</span>
+
+    <span class="kt">int</span> <span class="n">count</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="kt">bool</span> <span class="n">palindrome</span> <span class="o">=</span> <span class="n">s</span><span class="p">.</span><span class="n">size</span><span class="p">()</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">==</span> <span class="mi">0</span> <span class="o">?</span> <span class="nb">true</span> <span class="o">:</span> <span class="nb">false</span><span class="p">;</span>
+
+    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="n">j</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">j</span> <span class="o">&lt;</span> <span class="n">s</span><span class="p">.</span><span class="n">size</span><span class="p">();</span> <span class="n">j</span><span class="o">++</span><span class="p">){</span>
+        <span class="k">if</span><span class="p">(</span><span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">!=</span> <span class="n">s</span><span class="p">[</span><span class="n">j</span><span class="p">]){</span>
+            <span class="k">if</span><span class="p">((</span><span class="n">j</span> <span class="o">-</span> <span class="n">i</span><span class="p">)</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">){</span>
+                <span class="k">if</span><span class="p">(</span><span class="n">palindrome</span><span class="p">)</span>
+                    <span class="k">return</span> <span class="s">"NO"</span><span class="p">;</span>
+                <span class="n">palindrome</span> <span class="o">=</span> <span class="nb">true</span><span class="p">;</span>
+            <span class="p">}</span>
+            
+            <span class="n">i</span> <span class="o">=</span> <span class="n">j</span><span class="p">;</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="s">"YES"</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+<p><b>C#:</b></p>
+
+<div class="language-cs highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">static</span> <span class="kt">string</span> <span class="nf">gameOfThrones</span><span class="p">(</span><span class="kt">string</span> <span class="n">s</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">s</span> <span class="p">=</span> <span class="n">String</span><span class="p">.</span><span class="nf">Concat</span><span class="p">(</span><span class="n">s</span><span class="p">.</span><span class="nf">OrderBy</span><span class="p">(</span><span class="n">a</span> <span class="p">=&gt;</span> <span class="n">a</span><span class="p">));</span>
+
+    <span class="kt">bool</span> <span class="n">palindrome</span> <span class="p">=</span> <span class="n">s</span><span class="p">.</span><span class="n">Length</span> <span class="p">%</span> <span class="m">2</span> <span class="p">==</span> <span class="m">0</span> <span class="p">?</span> <span class="k">true</span> <span class="p">:</span> <span class="k">false</span><span class="p">;</span>
+
+    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="p">=</span> <span class="m">0</span><span class="p">,</span> <span class="n">j</span> <span class="p">=</span> <span class="m">0</span><span class="p">;</span> <span class="n">j</span> <span class="p">&lt;</span> <span class="n">s</span><span class="p">.</span><span class="n">Length</span><span class="p">;</span> <span class="n">j</span><span class="p">++){</span>
+        <span class="k">if</span><span class="p">(</span><span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="p">!=</span> <span class="n">s</span><span class="p">[</span><span class="n">j</span><span class="p">]){</span>
+            <span class="k">if</span><span class="p">((</span><span class="n">j</span> <span class="p">-</span> <span class="n">i</span><span class="p">)</span> <span class="p">%</span> <span class="m">2</span> <span class="p">!=</span> <span class="m">0</span><span class="p">){</span>
+                <span class="k">if</span><span class="p">(</span><span class="n">palindrome</span><span class="p">)</span>
+                    <span class="k">return</span> <span class="s">"NO"</span><span class="p">;</span>
+                <span class="n">palindrome</span> <span class="p">=</span> <span class="k">true</span><span class="p">;</span>
+            <span class="p">}</span>
+            
+            <span class="n">i</span> <span class="p">=</span> <span class="n">j</span><span class="p">;</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="s">"YES"</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+<p><b>Java:</b></p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">static</span> <span class="n">String</span> <span class="nf">gameOfThrones</span><span class="o">(</span><span class="n">String</span> <span class="n">s</span><span class="o">)</span> <span class="o">{</span>
+    <span class="kt">char</span><span class="o">[]</span> <span class="n">charArray</span>  <span class="o">=</span> <span class="n">s</span><span class="o">.</span><span class="na">toCharArray</span><span class="o">();</span>
+    <span class="n">Arrays</span><span class="o">.</span><span class="na">sort</span><span class="o">(</span><span class="n">charArray</span><span class="o">);</span>
+    <span class="n">s</span> <span class="o">=</span> <span class="k">new</span> <span class="n">String</span><span class="o">(</span><span class="n">charArray</span><span class="o">);</span>
+
+    <span class="kt">boolean</span> <span class="n">palindrome</span> <span class="o">=</span> <span class="n">s</span><span class="o">.</span><span class="na">length</span><span class="o">()</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">==</span> <span class="mi">0</span> <span class="o">?</span> <span class="kc">true</span> <span class="o">:</span> <span class="kc">false</span><span class="o">;</span>
+
+    <span class="k">for</span><span class="o">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="o">,</span> <span class="n">j</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span> <span class="n">j</span> <span class="o">&lt;</span> <span class="n">s</span><span class="o">.</span><span class="na">length</span><span class="o">();</span> <span class="n">j</span><span class="o">++){</span>
+        <span class="k">if</span><span class="o">(</span><span class="n">s</span><span class="o">.</span><span class="na">charAt</span><span class="o">(</span><span class="n">i</span><span class="o">)</span> <span class="o">!=</span> <span class="n">s</span><span class="o">.</span><span class="na">charAt</span><span class="o">(</span><span class="n">j</span><span class="o">)){</span>
+            <span class="k">if</span><span class="o">((</span><span class="n">j</span> <span class="o">-</span> <span class="n">i</span><span class="o">)</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">!=</span> <span class="mi">0</span><span class="o">){</span>
+                <span class="k">if</span><span class="o">(</span><span class="n">palindrome</span><span class="o">)</span>
+                    <span class="k">return</span> <span class="s">"NO"</span><span class="o">;</span>
+                <span class="n">palindrome</span> <span class="o">=</span> <span class="kc">true</span><span class="o">;</span>
+            <span class="o">}</span>
+            
+            <span class="n">i</span> <span class="o">=</span> <span class="n">j</span><span class="o">;</span>
+        <span class="o">}</span>
+    <span class="o">}</span>
+
+    <span class="k">return</span> <span class="s">"YES"</span><span class="o">;</span>
+
+<span class="o">}</span>
+</code></pre></div></div>
+
+<p><b>JavaScript:</b></p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">gameOfThrones</span><span class="p">(</span><span class="nx">s</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">s</span> <span class="o">=</span> <span class="nx">s</span><span class="p">.</span><span class="nx">split</span><span class="p">(</span><span class="s1">''</span><span class="p">).</span><span class="nx">sort</span><span class="p">().</span><span class="nx">join</span><span class="p">(</span><span class="s1">''</span><span class="p">);</span>
+
+    <span class="kd">var</span> <span class="nx">palindrome</span> <span class="o">=</span> <span class="nx">s</span><span class="p">.</span><span class="nx">length</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">==</span> <span class="mi">0</span> <span class="p">?</span> <span class="kc">true</span> <span class="p">:</span> <span class="kc">false</span><span class="p">;</span>
+
+    <span class="k">for</span><span class="p">(</span><span class="kd">var</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nx">j</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">j</span> <span class="o">&lt;</span> <span class="nx">s</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span> <span class="nx">j</span><span class="o">++</span><span class="p">){</span>
+        <span class="k">if</span><span class="p">(</span><span class="nx">s</span><span class="p">[</span><span class="nx">i</span><span class="p">]</span> <span class="o">!=</span> <span class="nx">s</span><span class="p">[</span><span class="nx">j</span><span class="p">]){</span>
+            <span class="k">if</span><span class="p">((</span><span class="nx">j</span> <span class="o">-</span> <span class="nx">i</span><span class="p">)</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">){</span>
+                <span class="k">if</span><span class="p">(</span><span class="nx">palindrome</span><span class="p">)</span>
+                    <span class="k">return</span> <span class="s2">"NO"</span><span class="p">;</span>
+                <span class="nx">palindrome</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+            <span class="p">}</span>
+            
+            <span class="nx">i</span> <span class="o">=</span> <span class="nx">j</span><span class="p">;</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="s2">"YES"</span><span class="p">;</span>
+
+<span class="p">}</span>
+</code></pre></div></div>
+<p><b>Python:</b></p>
+
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">gameOfThrones</span><span class="p">(</span><span class="n">s</span><span class="p">):</span>
+    <span class="n">s</span> <span class="o">=</span> <span class="s">''</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="nb">sorted</span><span class="p">(</span><span class="n">s</span><span class="p">))</span>
+
+    <span class="n">palindrome</span> <span class="o">=</span> <span class="bp">True</span> <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">s</span><span class="p">)</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">==</span> <span class="mi">0</span> <span class="k">else</span> <span class="bp">False</span>
+
+    <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="k">for</span> <span class="n">j</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">s</span><span class="p">)):</span>
+        <span class="k">if</span><span class="p">(</span><span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">!=</span> <span class="n">s</span><span class="p">[</span><span class="n">j</span><span class="p">]):</span>
+            <span class="k">if</span><span class="p">((</span><span class="n">j</span> <span class="o">-</span> <span class="n">i</span><span class="p">)</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">):</span>
+                <span class="k">if</span><span class="p">(</span><span class="n">palindrome</span><span class="p">):</span>
+                    <span class="k">return</span> <span class="s">"NO"</span>
+                <span class="n">palindrome</span> <span class="o">=</span> <span class="bp">True</span>
+            
+            <span class="n">i</span> <span class="o">=</span> <span class="n">j</span>
+
+    <span class="k">return</span> <span class="s">"YES"</span>
+</code></pre></div></div>
+
+<center><h2>Flipping Bits</h2></center>
+
+<hr />
+
+<p><a href="https://www.hackerrank.com/challenges/flipping-bits/problem" target="_blank">Flipping Bits</a></p>
+
+<p>You will be given a list of 32 bit unsigned integers. Flip all the bits and print the result as an unsigned integer.</p>
+
+<p>The largest possible value of an unsigned integer is <a href="https://en.wikipedia.org/wiki/Integer_%28computer_science%29">2^32 - 1</a> or 0 to 4,294,967,295.</p>
+
+<p><b>All we need to do is:</b></p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>2^32 - 1 - n = flipped bits.
+</code></pre></div></div>
+
+<p>To understand why this works you have to know about <a href="https://en.wikipedia.org/wiki/Binary_number#Subtraction" target="_blank">binary subtraction</a>.</p>
+
+<p><b>Binary subtraction:</b></p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1 - 1 = 0
+1 - 0 = 1
+0 - 1 = 1, borrow 1
+0 - 0 = 0
+</code></pre></div></div>
+
+<p><b>Binary Subtraction:</b>
+So if n = 0 and we wanted to know the flipped bits it would look like this</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>4294967295 - 0 = 429467295
+
+4294967295 = 11111111111111111111111111111111
+0 =          00000000000000000000000000000000
+4294967295 = 11111111111111111111111111111111
+</code></pre></div></div>
+
+<p>If n = 2147483647</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>4294967295 - 2147483647 = 2147483648
+
+4294967295 = 11111111111111111111111111111111
+2147483647 = 01111111111111111111111111111111
+2147483648 = 10000000000000000000000000000000
+</code></pre></div></div>
+
+<p>Instead of doing this you could also use the bitwise operation ~ which flips all bits. Such as:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>x = ~x;
+</code></pre></div></div>
+
+<center><h3>Flipping Bits Solutions:</h3></center>
+
+<hr />
+
+<p><b>C++:</b></p>
+
+<div class="language-cpp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kt">long</span> <span class="nf">flippingBits</span><span class="p">(</span><span class="kt">long</span> <span class="n">n</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="n">UINT_MAX</span> <span class="o">-</span> <span class="n">n</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p><b>C#:</b></p>
+
+<div class="language-cs highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">static</span> <span class="kt">long</span> <span class="nf">flippingBits</span><span class="p">(</span><span class="kt">long</span> <span class="n">n</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="n">UInt32</span><span class="p">.</span><span class="n">MaxValue</span> <span class="p">-</span> <span class="n">n</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+<p><b>Java:</b></p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">static</span> <span class="kt">long</span> <span class="nf">flippingBits</span><span class="o">(</span><span class="kt">long</span> <span class="n">n</span><span class="o">)</span> <span class="o">{</span>
+    <span class="k">return</span> <span class="o">(</span><span class="kt">long</span><span class="o">)</span><span class="n">Math</span><span class="o">.</span><span class="na">pow</span><span class="o">(</span><span class="mi">2</span><span class="o">,</span><span class="mi">32</span><span class="o">)</span> <span class="o">-</span> <span class="mi">1</span> <span class="o">-</span> <span class="n">n</span><span class="o">;</span>
+<span class="o">}</span>
+</code></pre></div></div>
+<p><b>JavaScript:</b></p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">flippingBits</span><span class="p">(</span><span class="nx">N</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">pow</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">32</span><span class="p">)</span> <span class="o">-</span> <span class="mi">1</span> <span class="o">-</span> <span class="nx">N</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p><b>Python:</b></p>
+
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">flippingBits</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
+    <span class="k">return</span> <span class="nb">pow</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">32</span><span class="p">)</span> <span class="o">-</span> <span class="mi">1</span> <span class="o">-</span> <span class="n">n</span>
+</code></pre></div></div>
+
+        
+
+      </section>
+      <footer>
+        
+      </footer>
+    </div>
+
+    
+  </body>
+</html>

@@ -56,3 +56,15 @@ Control a chef and prepare food for customers as quickly as possible to earn mor
 * Currently Ranked: 5 in the United States
 
 <a href ="https://www.codingame.com/multiplayer/bot-programming/code-a-la-mode"> Codingame code a la mode</a>
+
+<center><h1>Coding Problems</h1></center>
+
+***
+
+<center><h2>Hacker Rank</h2></center>
+
+***
+
+As per the faq on hacker rank, the solution can be shared if it's not part of a running competition.
+
+<a href="https://github.com/perrinod/hacker-rank-solutions" target="_blank">My github repository of hacker rank solutions</a>
