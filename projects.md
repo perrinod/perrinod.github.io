@@ -68,7 +68,7 @@ This is part of the output of the checkers ai program.  The images represent a s
 
 <img src="https://drive.google.com/uc?export=view&id=1IRkNnpv7LUYXyRivfRzNDf5tN5t51ok0"  style="float: left; width: 45%; margin-right: 1%; margin-top: 2em;" alt="checkers ai program image" title="checkers ai program" />
 
-<img src="https://drive.google.com/uc?export=view&id=1mLjCyZGg8r-4Hd0kdpYypBSmhkMbpNNL"  style="float: left; width: 45%; margin-right: 1%; margin-top: 1em;" checkers="checkers ai program image" title="checkers ai program" />
+<img src="https://drive.google.com/uc?export=view&id=1mLjCyZGg8r-4Hd0kdpYypBSmhkMbpNNL"  style="float: left; width: 45%; margin-right: 1%; margin-top: 1em;" alt="checkers ai program image" title="checkers ai program" />
 
 <p style="clear: both;"></p>
 
@@ -126,7 +126,7 @@ A screenshot of one of the protagonists in a bathroom.
 *   HTML
 *   Visual Studio Code
 
-Extension for firefox to add context menu having useful things for tabs.
+Extension for firefox to add useful things for tabs in context menu.
 
 <a href="https://github.com/perrinod/tab-add-on" target="_blank">Github Repository</a>
 
@@ -141,6 +141,7 @@ Gives the user the ability to move tabs to the left or right into a new window.
 
 <center><h5>Print:</h5></center>
 Gives the user the ability to print and print preview the current tab.  These feature exist within the menu bar of firefox but, if you have the menu bar disabled then you would be forced to use hotkeys.
+
 
 <img src="https://drive.google.com/uc?export=view&id=1H46SL7dk_9SNGtPpIxaXchggxn8ThaTP" alt="tab extension print image" title="tab extension">
 
