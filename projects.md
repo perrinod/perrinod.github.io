@@ -30,7 +30,7 @@ Designated Ride Android application provides a transportation service to patient
 
 A few images of the Designated Ride Android application.
 
-<img src="https://drive.google.com/uc?export=view&id=1aj-obl4jhoPHRqN6OQA8g_GuiePmlo5u" alt="designated ride android application image" title="designated ride android application" />
+<img src="https://drive.google.com/uc?export=view&id=1aj-obl4jhoPHRqN6OQA8g_GuiePmlo5u" alt="designated ride android application image" title="designated ride android application">
 
 <center><h2>NuU Medspa's Website</h2></center>
 
@@ -66,11 +66,13 @@ The checkers program begins by playing itself n amount of time.  Refining the ev
 This is part of the output of the checkers ai program.  The images represent a single move as the computer plays against itself.  The image on the left represents the current board state.  The image on the right shows the move the computer made and a score representing the evaluation of the board state after the move.  A positive or negative evaluation represents if either white or black has a better position.
 
 
-<img src="https://drive.google.com/uc?export=view&id=1IRkNnpv7LUYXyRivfRzNDf5tN5t51ok0"  style="float: left; width: 45%; margin-right: 1%; margin-top: 2em;" alt="checkers ai program image" title="checkers ai program" />
+<img src="https://drive.google.com/uc?export=view&id=1IRkNnpv7LUYXyRivfRzNDf5tN5t51ok0"  style="float: left; width: 45%; margin-right: 1%; margin-top: 2em;" alt="checkers ai program image" title="checkers ai program">
 
-<img src="https://drive.google.com/uc?export=view&id=1mLjCyZGg8r-4Hd0kdpYypBSmhkMbpNNL"  style="float: left; width: 45%; margin-right: 1%; margin-top: 1em;" alt="checkers ai program image" title="checkers ai program" />
+<img src="https://drive.google.com/uc?export=view&id=1mLjCyZGg8r-4Hd0kdpYypBSmhkMbpNNL"  style="float: left; width: 45%; margin-right: 1%; margin-top: 1em;" alt="checkers ai program image" title="checkers ai program">
 
 <p style="clear: both;"></p>
+
+<script src=''></script>
 
 <center><h2>Spam Filter</h2></center>
 
@@ -89,7 +91,7 @@ The spam filter program requires a set of sample cases of text that are already 
 
 This is an output file of the spam filter.  Given a set of youtube comments to analyze it outputs a text file. The text file contains an evaluation of Spam or Not Spam next to the comment and the probability of a given word in the comment being spam.
 
-<img src="https://drive.google.com/uc?export=view&id=1o_r8Y8aHyJgJARARHWVvla2YgE41NVT6" alt="spam filter program image" title="spam filter program" />
+<img src="https://drive.google.com/uc?export=view&id=1o_r8Y8aHyJgJARARHWVvla2YgE41NVT6" alt="spam filter program image" title="spam filter program">
 
 <center><h1>Current Projects</h1></center>
 
@@ -114,7 +116,7 @@ Never Told is a point and click adventure game.  Having an art style of retro 2d
 
 A screenshot of one of the protagonists in a bathroom.
 
-<img src="https://drive.google.com/uc?export=view&id=1yAZaRI7JYB9uQH5GzxEbyCujNDzH6LlL" alt="never told game image" title="never told game" />
+<img src="https://drive.google.com/uc?export=view&id=1yAZaRI7JYB9uQH5GzxEbyCujNDzH6LlL" alt="never told game image" title="never told game">
 
 <center><h2>Tab Extension</h2></center>
 
@@ -137,7 +139,7 @@ Extension for firefox to add useful things for tabs in context menu.
 <center><h5>Move:</h5></center>
 Gives the user the ability to move tabs to the left or right into a new window.
 
-<img src="https://drive.google.com/uc?export=view&id=1w4SIV-fuHektpA8KlbpQWp7pxhjPe8wk" alt="tab extension move image" title="tab extension" />
+<img src="https://drive.google.com/uc?export=view&id=1w4SIV-fuHektpA8KlbpQWp7pxhjPe8wk" alt="tab extension move image" title="tab extension">
 
 <center><h5>Print:</h5></center>
 Gives the user the ability to print and print preview the current tab.  These feature exist within the menu bar of firefox but, if you have the menu bar disabled then you would be forced to use hotkeys.
