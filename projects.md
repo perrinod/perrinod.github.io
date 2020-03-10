@@ -72,8 +72,6 @@ This is part of the output of the checkers ai program.  The images represent a s
 
 <p style="clear: both;"></p>
 
-<script src=''></script>
-
 <center><h2>Spam Filter</h2></center>
 
 ***
@@ -92,6 +90,55 @@ The spam filter program requires a set of sample cases of text that are already 
 This is an output file of the spam filter.  Given a set of youtube comments to analyze it outputs a text file. The text file contains an evaluation of Spam or Not Spam next to the comment and the probability of a given word in the comment being spam.
 
 <img src="https://drive.google.com/uc?export=view&id=1o_r8Y8aHyJgJARARHWVvla2YgE41NVT6" alt="spam filter program image" title="spam filter program">
+
+<center><h2>Information Discord Bot</h2></center>
+
+***
+
+<center><h4>Using:</h4></center>
+
+*   JavaScript
+*   Node.js
+*   Discord
+*   Visual Studio 2019
+
+Information discord bot uses various API's to display various information when given a command.  With possible updates in the future for more commands.
+
+<a href="https://github.com/perrinod/information-discord-bot" target="_blank">Github Repository</a>
+
+<center><h4>Information Discord Bot Images</h4></center>
+
+***
+
+<center><h5>!anime:</h5></center>
+Displays information about given anime.
+
+<img src="https://drive.google.com/uc?export=view&id=1ltRuEo3EPqD-ZIo1ot7I5W4hK4H8EYfq" alt="anime command image" title="information discord bot">
+
+<center><h5>!catfact:</h5></center>
+Displays a random cat fact.
+
+<img src="https://drive.google.com/uc?export=view&id=1ROXf4BPjuV4eIienPZdoX9A1_uoM_u0G" alt="catfact command image" title="information discord bot">
+
+<center><h5>!help:</h5></center>
+Displays all possible commands
+
+<img src="https://drive.google.com/uc?export=view&id=1KFvCh-7iYiJCj-HQUTskr0y6Jed8kNJS" alt="help command image" title="information discord bot">
+
+<center><h5>!magic:</h5></center>
+Displays information about given magic the gathering card.
+
+<img src="https://drive.google.com/uc?export=view&id=18s0c8dpG0ZWzQ85qt2YFXJGSSdNeM7fE" alt="magic command image" title="information discord bot">
+
+<center><h5>!show:</h5></center>
+Displays information about given TV show.
+
+<img src="https://drive.google.com/uc?export=view&id=1nVZHvQ5uA2v3WlVTPZHGIgFJLdLe9qIe" alt="show command image" title="information discord bot">
+
+<center><h5>!weather:</h5></center>
+Displays two day forecast from given location.
+
+<img src="https://drive.google.com/uc?export=view&id=1A8DB341KJHoiaebGjkfFpE18vlRUXMur" alt="weather command image" title="information discord bot">
 
 <center><h1>Current Projects</h1></center>
 
