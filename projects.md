@@ -72,25 +72,6 @@ This is part of the output of the checkers ai program.  The images represent a s
 
 <p style="clear: both;"></p>
 
-<center><h2>Spam Filter</h2></center>
-
-***
-
-<center><h4>Created Using:</h4></center>
-
-*   Java
-*   Eclipse
-
-This spam filter program was designed to determine whether a given set of text was considered spam or not spam using naive bayes algorithm.
-
-The spam filter program requires a set of sample cases of text that are already classified as spam and not spam.  When given any new set of text it can then determine whether it's spam or not and further refine its ability to correctly classify text.
-
-<center><h4>Spam Filter Image</h4></center>
-
-This is an output file of the spam filter.  Given a set of youtube comments to analyze it outputs a text file. The text file contains an evaluation of Spam or Not Spam next to the comment and the probability of a given word in the comment being spam.
-
-<img src="https://drive.google.com/uc?export=view&id=1o_r8Y8aHyJgJARARHWVvla2YgE41NVT6" alt="spam filter program image" title="spam filter program">
-
 <center><h2>Information Discord Bot</h2></center>
 
 ***
@@ -139,6 +120,51 @@ Displays information about given TV show.
 Displays two day forecast from given location.
 
 <img src="https://drive.google.com/uc?export=view&id=1A8DB341KJHoiaebGjkfFpE18vlRUXMur" alt="weather command image" title="information discord bot">
+
+<center><h2>Saturday Night Limited Standings Extension</h2></center>
+
+***
+<center><h4>Created Using: </h4></center>
+
+*   JavaScript
+*   Node.js
+*   Smash.gg API
+*   Twitch API
+*   Visual Studio 2019
+
+Saturday Night Limited Standings displays the standings of participants in a limited, best of three, swiss style tournament.  Viewers will be able to see the top ranking participants of the tournament.  Displaying the user name and total score for the rounds.  If the participant attaches their twitch handle to the tournament standings their user name will be in the form of a link.  If a viewer is interested in the participant they can use that link which will opening a new page in the browser to that participants twitch page. 
+
+<a href="https://drive.google.com/file/d/1r8IJtjMxSJoxK7UQQLtqr4xbGPZAGVb4/view?usp=sharing" target="_blank">View video demonstration of version 0.0.1 on Google Docs.</a>
+
+<center><h4>Saturday Night Limited Standings Extension Image</h4></center>
+
+Image of version 0.0.2
+
+<img src="https://drive.google.com/uc?export=view&id=1sGhf7CG4cNPanQwB8pUyIHV3aFd9YOsS" alt="saturday night limited standings image" title="saturday night limited standings extension">
+
+
+<a href="https://github.com/perrinod/saturday-night-limited" target="_blank">GitHub Repository</a>
+<a href="https://dashboard.twitch.tv/extensions/8rpnlmi2qua45dyuhmwvt40qogtben-0.0.2" target="_blank">Twitch Extension Page</a>
+
+<center><h2>Spam Filter</h2></center>
+
+***
+
+<center><h4>Created Using:</h4></center>
+
+*   Java
+*   Eclipse
+
+This spam filter program was designed to determine whether a given set of text was considered spam or not spam using naive bayes algorithm.
+
+The spam filter program requires a set of sample cases of text that are already classified as spam and not spam.  When given any new set of text it can then determine whether it's spam or not and further refine its ability to correctly classify text.
+
+<center><h4>Spam Filter Image</h4></center>
+
+This is an output file of the spam filter.  Given a set of youtube comments to analyze it outputs a text file. The text file contains an evaluation of Spam or Not Spam next to the comment and the probability of a given word in the comment being spam.
+
+<img src="https://drive.google.com/uc?export=view&id=1o_r8Y8aHyJgJARARHWVvla2YgE41NVT6" alt="spam filter program image" title="spam filter program">
+
 
 <center><h1>Current Projects</h1></center>
 
