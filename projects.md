@@ -32,22 +32,6 @@ A few images of the Designated Ride Android application.
 
 <img src="https://drive.google.com/uc?export=view&id=1aj-obl4jhoPHRqN6OQA8g_GuiePmlo5u" alt="designated ride android application image" title="designated ride android application">
 
-<center><h2>NuU Medspa's Website</h2></center>
-
-***
-
-<center><h4>Created Using:</h4></center>
-
-*   HTML
-*   CSS
-*   Adobe DreamWeaver
-*   FileZilla
-*   Search Engine Optimizing
-
-Developed, maintained and search engine optimized NuU Medspa's website.
-
-The company and website no longer exist.  The website can still be viewed using the internet archive from <a href = "https://web.archive.org/web/20080913212330/http://nuumedspa.com/" target="_blank"> Wayback Machine. </a>
-
 <center><h2>Checkers AI</h2></center>
 
 ***
@@ -144,6 +128,7 @@ Image of version 0.0.2
 
 
 <a href="https://github.com/perrinod/saturday-night-limited" target="_blank">GitHub Repository</a>
+
 <a href="https://dashboard.twitch.tv/extensions/8rpnlmi2qua45dyuhmwvt40qogtben-0.0.2" target="_blank">Twitch Extension Page</a>
 
 <center><h2>Spam Filter</h2></center>
