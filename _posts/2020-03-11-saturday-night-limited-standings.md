@@ -278,9 +278,9 @@ Server queries the tournament for all participants and stores it into an array.
 This starts a loop of queries
 ```
 Server queries for standings and if the tournament is complete
-Server queries for round x
-Server queries for round x + 1
-Server combines the standings array with round array
+Server queries for round x matches that have ended
+Server queries for round x + 1 matches that have ended
+Server combines the standings array with matches array
 Server sends that information to twitch only if the information is different than the last time it sent information
 ```
 

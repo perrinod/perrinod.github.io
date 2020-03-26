@@ -85,6 +85,12 @@ Displays a random cat fact.
 
 <img src="https://drive.google.com/uc?export=view&id=1ROXf4BPjuV4eIienPZdoX9A1_uoM_u0G" alt="catfact command image" title="information discord bot">
 
+<center><h5>!covid:</h5></center>
+
+<img src="https://drive.google.com/uc?export=view&id=18SBB-ZWNd3ogdzNsqiINRYoOO2se0QVz" alt="covid command image" title="information discord bot">
+
+<img src="https://drive.google.com/uc?export=view&id=1s6heM_dSe8oBLPN5nd4a-_XHJ-zt8uiA" alt="covid command image" title="information discord bot">
+
 <center><h5>!help:</h5></center>
 Displays all possible commands
 
@@ -99,6 +105,10 @@ Displays information about given magic the gathering card.
 Displays information about given TV show.
 
 <img src="https://drive.google.com/uc?export=view&id=1nVZHvQ5uA2v3WlVTPZHGIgFJLdLe9qIe" alt="show command image" title="information discord bot">
+
+<center><h5>!stock:</h5></center>
+Displays information about given stock.
+<img src="https://drive.google.com/uc?export=view&id=1kvONrG9K5q97tEasvwCVzHPIUGl_vSs8" alt="stock command image" title="information discord bot">
 
 <center><h5>!weather:</h5></center>
 Displays two day forecast from given location.
