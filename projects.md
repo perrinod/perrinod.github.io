@@ -86,6 +86,7 @@ Displays a random cat fact.
 <img src="https://drive.google.com/uc?export=view&id=1ROXf4BPjuV4eIienPZdoX9A1_uoM_u0G" alt="catfact command image" title="information discord bot">
 
 <center><h5>!covid:</h5></center>
+Display information regarding covid-19.
 
 <img src="https://drive.google.com/uc?export=view&id=18SBB-ZWNd3ogdzNsqiINRYoOO2se0QVz" alt="covid command image" title="information discord bot">
 
