@@ -23,7 +23,8 @@ Designated Ride Android application provides a transportation service to patient
 
 <a href="https://projects.invisionapp.com/share/WMHU6LOR5HZ" target="_blank">View interactive prototype on InVision.</a>
 
-<a href="https://drive.google.com/file/d/1-7pHV2khVb2-jzEEDG8RqEzy5TFPQm7P/view?usp=sharing" target="_blank">View video demonstration of prototype on Google Docs.</a>
+Video demonstration of prototype
+<iframe src="https://drive.google.com/file/d/1-7pHV2khVb2-jzEEDG8RqEzy5TFPQm7P/preview" width="640" height="480"></iframe>
 
 
 <center><h4>Designated Ride Images</h4></center>
@@ -129,18 +130,30 @@ Displays two day forecast from given location.
 
 Saturday Night Limited Standings displays the standings of participants in a limited, best of three, swiss style tournament.  Viewers will be able to see the top ranking participants of the tournament.  Displaying the user name and total score for the rounds.  If the participant attaches their twitch handle to the tournament standings their user name will be in the form of a link.  If a viewer is interested in the participant they can use that link which will opening a new page in the browser to that participants twitch page. 
 
-<a href="https://drive.google.com/file/d/1r8IJtjMxSJoxK7UQQLtqr4xbGPZAGVb4/view?usp=sharing" target="_blank">View video demonstration of version 0.0.1 on Google Docs.</a>
+Video demonstration of version 0.0.1
+<iframe src="https://drive.google.com/file/d/1r8IJtjMxSJoxK7UQQLtqr4xbGPZAGVb4/preview" width="640" height="480"></iframe>
 
 <center><h4>Saturday Night Limited Standings Extension Image</h4></center>
 
-Image of version 0.0.2
+Image of desktop version 0.0.2
 
-<img src="https://drive.google.com/uc?export=view&id=1sGhf7CG4cNPanQwB8pUyIHV3aFd9YOsS" alt="saturday night limited standings image" title="saturday night limited standings extension">
+<img src="https://drive.google.com/uc?export=view&id=1sGhf7CG4cNPanQwB8pUyIHV3aFd9YOsS" alt="saturday night limited standings v0.0.2 image" title="saturday night limited standings extension">
 
+Image of desktop version 0.0.3
+
+<img src="https://drive.google.com/uc?export=view&id=1iDQtxazFP9Zxt35IS7r8lRW5Vfb_DyuO" alt="saturday night limited standings v0.0.3 image" title="saturday night limited standings extension">
+
+Image on android version 0.0.3
+
+<img src="https://drive.google.com/uc?export=view&id=133_BFW51paXb91nDBnhzNDs4jErEO4NL" alt="saturday night limited standings mobile image" title="saturday night limited standings extension">
+
+Image on android version 0.0.3
+
+<img src="https://drive.google.com/uc?export=view&id=1364sWC56hHBl4EE9EuzDs7046nmqhvTa" alt="saturday night limited standings mobile image" title="saturday night limited standings extension">
 
 <a href="https://github.com/perrinod/saturday-night-limited" target="_blank">GitHub Repository</a>
 
-<a href="https://dashboard.twitch.tv/extensions/8rpnlmi2qua45dyuhmwvt40qogtben-0.0.2" target="_blank">Twitch Extension Page</a>
+<a href="https://dashboard.twitch.tv/extensions/8rpnlmi2qua45dyuhmwvt40qogtben-0.0.3" target="_blank">Twitch Extension Page</a>
 
 <center><h2>Spam Filter</h2></center>
 
@@ -160,32 +173,6 @@ The spam filter program requires a set of sample cases of text that are already 
 This is an output file of the spam filter.  Given a set of youtube comments to analyze it outputs a text file. The text file contains an evaluation of Spam or Not Spam next to the comment and the probability of a given word in the comment being spam.
 
 <img src="https://drive.google.com/uc?export=view&id=1o_r8Y8aHyJgJARARHWVvla2YgE41NVT6" alt="spam filter program image" title="spam filter program">
-
-
-<center><h1>Current Projects</h1></center>
-
-***
-
-<center><h2>Never Told</h2></center>
-
-***
-
-<center><h4>Creating Using:</h4></center>
-
-*   C#
-*   Microsoft Visual Studio
-*   Unity Game Engine
-*   Pyxel Edit
-
-Never Told is a point and click adventure game.  Having an art style of retro 2d pixel graphics and a story written in the style of avant-garde.
-
-<center><h4>Never Told Image</h4></center>
-
-***
-
-A screenshot of one of the protagonists in a bathroom.
-
-<img src="https://drive.google.com/uc?export=view&id=1yAZaRI7JYB9uQH5GzxEbyCujNDzH6LlL" alt="never told game image" title="never told game">
 
 <center><h2>Tab Extension</h2></center>
 
@@ -227,9 +214,9 @@ Gives the user the ability to save the current tab as a pdf.
 <img src="https://drive.google.com/uc?export=view&id=1Rj6RCw7A61hqz5_eJfoFuc5Dmy3X91m7" alt="tab extension pdf image" title="tab extension">
 
 <center><h5>Close:</h5></center>
-Gives the user the ability to close all tabs to the left or close duplicate tabs.
+Gives the user the ability to close all tabs to the left, right, other or close duplicate tabs.
 
-<img src="https://drive.google.com/uc?export=view&id=10ma3SWADTPvk87PlZsWTfiO0W0SNPoe3" alt="tab extension close image" title="tab extension">
+<img src="https://drive.google.com/uc?export=view&id=1XY7yz5QLtOOG7qTdvevkb6NeHS4v-F7J" alt="tab extension close image" title="tab extension">
 
 <center><h5>Discard:</h5></center>
 Gives the user the ability to discard tabs.  This allows the user to free up memory and help speed up firefox.
@@ -241,17 +228,43 @@ Gives the user the ability to combine tabs.  This places all the urls into one h
 
 <img src="https://drive.google.com/uc?export=view&id=1OJQNH9LgIex__NImokFNorjTNSQMeaFD" alt="tab extension combine image" title="tab extension">
 
+<img src="https://drive.google.com/uc?export=view&id=1SpxhIXTW_EyuqRusn3rGxKByZOkUWWK0" alt="tab extension combine.html image" title="tab extension">
+
+<center><h5>Options:</h5></center>
+
+Customizable options menu allows the user to choose what features they want to be displayed in the browser, tab and page context menus.
+
+<img src="https://drive.google.com/uc?export=view&id=1j7pXxqe9uG0EwDot52D2pzas7GAm8c_G" alt="tab extension options image" title="tab extension">
+
 <center><h5>Previous Tabs:</h5></center>
 Gives the user the ability to see up to 25 previously closed tabs and restore them if need. This features exists within the menu of firefox but, if you have the menu bar disabled then you can't view it.  The extension does allow all tabs to be restored into a new window which is not avaliable from the menu bar.
 
 <img src="https://drive.google.com/uc?export=view&id=1fbPmcSJkYhgePaBLJigF6PROejB2MOK3" alt="tab extension previous image" title="tab extension">
 
-<center><h5>Future development:</h5></center>
+<center><h1>Current Projects</h1></center>
 
-*   Combine Tabs needs to be implemented
-*   Ability to refresh tabs at given intervals
-*   Close all other windows option
-*   UI for options page
+***
+
+<center><h2>Never Told</h2></center>
+
+***
+
+<center><h4>Creating Using:</h4></center>
+
+*   C#
+*   Microsoft Visual Studio
+*   Unity Game Engine
+*   Pyxel Edit
+
+Never Told is a point and click adventure game.  Having an art style of retro 2d pixel graphics and a story written in the style of avant-garde.
+
+<center><h4>Never Told Image</h4></center>
+
+***
+
+A screenshot of one of the protagonists in a bathroom.
+
+<img src="https://drive.google.com/uc?export=view&id=1yAZaRI7JYB9uQH5GzxEbyCujNDzH6LlL" alt="never told game image" title="never told game">
 
 <center><h2>Hacker Rank Solutions</h2></center>
 

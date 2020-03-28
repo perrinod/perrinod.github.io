@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Saturday Night Limited Standings Version 0.0.2 (03/18/2020)"
+title: "Saturday Night Limited Standings Version 0.0.3 (03/18/2020)"
 description: "03/18/2020"
 tags: saturday night limited, saturday night limited standings, twitch extension, twitch api, smashgg, smash gg api
 ---
@@ -14,7 +14,7 @@ tags: saturday night limited, saturday night limited standings, twitch extension
 ***
 
 <a href="https://github.com/perrinod/saturday-night-limited" target="_blank">GitHub Repository</a>
-<a href="https://dashboard.twitch.tv/extensions/8rpnlmi2qua45dyuhmwvt40qogtben-0.0.2" target="_blank">Twitch Extension Page</a>
+<a href="https://dashboard.twitch.tv/extensions/8rpnlmi2qua45dyuhmwvt40qogtben-0.0.3" target="_blank">Twitch Extension Page</a>
 
 In my <a href="https://perrinod.github.io/2020/03/11/saturday-night-limited-standings.html" target="_blank">previous blog post</a> I wrote about my attempt at creating a twitch extension that displays live tournament standings.  The extension went live and was utilized for a tournament.  After watching the behaviour of the extension I learned that it was displaying incorrect information.  I will explain what went wrong and how I plan to fix these problems for version 0.0.3, along with new features that version 0.0.3 will bring.
 
@@ -339,7 +339,7 @@ slots{
     }
 }
 ```
-The winning players against an opponent who was disqualified were getting scores of 0 instead of 2.  Making the calculations wrong and thus, the extension was displaying incorrect information.  
+The winning players against an opponent who was disqualified was getting scores of 0 instead of 2.  Making the calculations wrong and thus, the extension was displaying incorrect information.  
 
 <center><h4>Correcting Scores</h4></center>
 
