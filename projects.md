@@ -24,7 +24,7 @@ Designated Ride Android application provides a transportation service to patient
 <a href="https://projects.invisionapp.com/share/WMHU6LOR5HZ" target="_blank">View interactive prototype on InVision.</a>
 
 Video demonstration of prototype
-<iframe src="https://drive.google.com/file/d/1-7pHV2khVb2-jzEEDG8RqEzy5TFPQm7P/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1-7pHV2khVb2-jzEEDG8RqEzy5TFPQm7P/preview"></iframe>
 
 
 <center><h4>Designated Ride Images</h4></center>
@@ -131,7 +131,7 @@ Displays two day forecast from given location.
 Saturday Night Limited Standings displays the standings of participants in a limited, best of three, swiss style tournament.  Viewers will be able to see the top ranking participants of the tournament.  Displaying the user name and total score for the rounds.  If the participant attaches their twitch handle to the tournament standings their user name will be in the form of a link.  If a viewer is interested in the participant they can use that link which will opening a new page in the browser to that participants twitch page. 
 
 Video demonstration of version 0.0.1
-<iframe src="https://drive.google.com/file/d/1r8IJtjMxSJoxK7UQQLtqr4xbGPZAGVb4/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1r8IJtjMxSJoxK7UQQLtqr4xbGPZAGVb4/preview"></iframe>
 
 <center><h4>Saturday Night Limited Standings Extension Image</h4></center>
 
@@ -226,7 +226,7 @@ Gives the user the ability to discard tabs.  This allows the user to free up mem
 <center><h5>Combine:</h5></center>
 Gives the user the ability to combine tabs.  This places all the urls into one html page to help free up memory.
 
-<img src="https://drive.google.com/uc?export=view&id=1OJQNH9LgIex__NImokFNorjTNSQMeaFD" alt="tab extension combine image" title="tab extension">
+<img src="https://drive.google.com/uc?export=view&id=1IXlJUOJFZ_fP8BFTnZtLsVDEo-65jwHy" alt="tab extension combine image" title="tab extension">
 
 <img src="https://drive.google.com/uc?export=view&id=1SpxhIXTW_EyuqRusn3rGxKByZOkUWWK0" alt="tab extension combine.html image" title="tab extension">
 
