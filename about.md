@@ -13,7 +13,7 @@ Hello, my name is Domenick Perrino.  I am a graduate of University of Nevada Las
 
 ***
 
-* perrinod@unlv.nevada.edu
+* domenick.perrinod@alumni.unlv.edu
 * <a href = "https://github.com/perrinod" target="_blank"> Github </a>
 * <a href = "https://www.codingame.com/profile/442de6dbcc84ca76c4b30870af827d4a9295243" target="_blank"> Codingame </a>
 * <a href = "https://www.hackerrank.com/profile/perrinod" target="_blank"> HackerRank </a>
