@@ -151,10 +151,6 @@ Image on android version 0.0.3
 
 <img src="https://drive.google.com/uc?export=view&id=1364sWC56hHBl4EE9EuzDs7046nmqhvTa" alt="saturday night limited standings mobile image" title="saturday night limited standings extension">
 
-<a href="https://github.com/perrinod/saturday-night-limited" target="_blank">GitHub Repository</a>
-
-<a href="https://dashboard.twitch.tv/extensions/8rpnlmi2qua45dyuhmwvt40qogtben-0.0.3" target="_blank">Twitch Extension Page</a>
-
 <center><h2>Spam Filter</h2></center>
 
 ***
