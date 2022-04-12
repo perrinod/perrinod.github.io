@@ -5,7 +5,6 @@ show_downloads: false
 github:
   index: https://perrinod.github.io/index
   about: https://perrinod.github.io/about
-  blog: https://perrinod.github.io/blog
   projects: https://perrinod.github.io/projects
   resume: https://perrinod.github.io/resume
   competitions: https://perrinod.github.io/competitions
