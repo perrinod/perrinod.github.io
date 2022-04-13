@@ -7,4 +7,4 @@ title: "Resume"
 
 ***
 
-<iframe src="https://drive.google.com/file/d/1DRdm49SLeOVXBDhwM7iY7dJ8KKfXvzyZ/preview" width="585" height="750"></iframe>
+<iframe src="https://drive.google.com/file/d/1sWCoERub_xEMMmn_DZbbIq6hkvUirjyi/preview" width="585" height="750"></iframe>
