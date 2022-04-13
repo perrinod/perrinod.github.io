@@ -13,23 +13,23 @@ Hello, my name is Domenick Perrino.  I am a graduate of University of Nevada Las
 
 ***
 
-* domenick.perrinod@alumni.unlv.edu
+* domenick.perrino@alumni.unlv.edu
 * <a href = "https://github.com/perrinod" target="_blank"> Github </a>
 * <a href = "https://www.hackerrank.com/profile/perrinod" target="_blank"> HackerRank </a>
 * <a href = "https://www.codingame.com/profile/442de6dbcc84ca76c4b30870af827d4a9295243" target="_blank"> Codingame </a>
 * <a href = "https://www.codewars.com/users/perrinod" target="_blank"> Codewars </a>
 <br><br>
-<a href="https://psnprofiles.com/Assassin311"><img src="https://card.psnprofiles.com/1/Assassin311.png" border="0"></a>
+<a href="https://psnprofiles.com/Assassin311" target="_blank"><img src="https://card.psnprofiles.com/1/Assassin311.png" border="0"></a>
 
 <center><h3>Website Information</h3></center>
 
 ***
 
-Website maintained and modified by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+Website maintained and modified by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a>
 
 Website hosted on GitHub Pages. 
 
-Original theme by <a href="https://twitter.com/mattgraham">mattgraham</a>
+Original theme by <a href="https://twitter.com/mattgraham" target="_blank">mattgraham</a>
 
 <center><h2>Courses Taken For B.S Computer Science</h2></center>
 
