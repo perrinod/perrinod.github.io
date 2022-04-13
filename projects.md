@@ -29,6 +29,8 @@ Video demonstration of prototype
 
 <center><h4>Designated Ride Images</h4></center>
 
+***
+
 A few images of the Designated Ride Android application.
 
 <a href="https://drive.google.com/file/d/1mWlrsCgCHTZB0wAV0mGPOmko9O9Zkel8/view?usp=sharing" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1aj-obl4jhoPHRqN6OQA8g_GuiePmlo5u" alt="designated ride android application image" title="designated ride android application"></a>
@@ -47,6 +49,8 @@ This checkers program was designed to play against a human opponent after machin
 The checkers program begins by playing itself n amount of time.  Refining the evaluation of what it gives to a given checkers board state and machine learning the game of checkers.  After n games have been played the program will use what it has learned to play against a human opponent.
 
 <center><h4>Checkers AI Images</h4></center>
+
+***
 
 This is part of the output of the checkers ai program.  The images represent a single move as the computer plays against itself.  The image on the left represents the current board state.  The image on the right shows the move the computer made and a score representing the evaluation of the board state after the move.  A positive or negative evaluation represents if either white or black has a better position.
 
@@ -135,6 +139,8 @@ Video demonstration of version 0.0.1
 
 <center><h4>Saturday Night Limited Standings Extension Image</h4></center>
 
+***
+
 Image of desktop version 0.0.2
 
 <a href="https://drive.google.com/file/d/1rqMtC0BqwDXfVWXl15Ua6ebZCCi9KOIN/view?usp=sharing" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1sGhf7CG4cNPanQwB8pUyIHV3aFd9YOsS" alt="saturday night limited standings v0.0.2 image" title="saturday night limited standings extension"></a>
@@ -165,6 +171,8 @@ This spam filter program was designed to determine whether a given set of text w
 The spam filter program requires a set of sample cases of text that are already classified as spam and not spam.  When given any new set of text it can then determine whether it's spam or not and further refine its ability to correctly classify text.
 
 <center><h4>Spam Filter Image</h4></center>
+
+***
 
 This is an output file of the spam filter.  Given a set of youtube comments to analyze it outputs a text file. The text file contains an evaluation of Spam or Not Spam next to the comment and the probability of a given word in the comment being spam.
 
