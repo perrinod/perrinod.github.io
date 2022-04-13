@@ -50,9 +50,10 @@ The checkers program begins by playing itself n amount of time.  Refining the ev
 
 This is part of the output of the checkers ai program.  The images represent a single move as the computer plays against itself.  The image on the left represents the current board state.  The image on the right shows the move the computer made and a score representing the evaluation of the board state after the move.  A positive or negative evaluation represents if either white or black has a better position.
 
-<img src="https://drive.google.com/uc?export=view&id=1PGxSez-r1EdP4KDNcTjyzrPaG5UzhW9K"  style="float: left; width: 45%; margin-right: 1%; margin-top: 2em;" alt="checkers ai program image" title="checkers ai program">
 
-<img src="https://drive.google.com/uc?export=view&id=1kOEb2amJ3vJp6OZ2zKPNhMOI3NjPYvb8"  style="float: left; width: 45%; margin-right: 1%; margin-top: 1em;" alt="checkers ai program image" title="checkers ai program">
+<img src="https://drive.google.com/uc?export=view&id=1IRkNnpv7LUYXyRivfRzNDf5tN5t51ok0"  style="float: left; width: 45%; margin-right: 1%; margin-top: 2em;" alt="checkers ai program image" title="checkers ai program">
+
+<img src="https://drive.google.com/uc?export=view&id=1mLjCyZGg8r-4Hd0kdpYypBSmhkMbpNNL"  style="float: left; width: 45%; margin-right: 1%; margin-top: 1em;" alt="checkers ai program image" title="checkers ai program">
 
 <p style="clear: both;"></p>
 
