@@ -21,16 +21,6 @@ Hello, my name is Domenick Perrino.  I am a graduate of University of Nevada Las
 <br><br>
 <a href="https://psnprofiles.com/Assassin311" target="_blank"><img src="https://card.psnprofiles.com/1/Assassin311.png" border="0"></a>
 
-<center><h3>Website Information</h3></center>
-
-***
-
-Website maintained and modified by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a>
-
-Website hosted on GitHub Pages. 
-
-Original theme by <a href="https://twitter.com/mattgraham" target="_blank">mattgraham</a>
-
 <center><h2>Courses Taken For B.S Computer Science</h2></center>
 
 ***
@@ -79,3 +69,13 @@ Original theme by <a href="https://twitter.com/mattgraham" target="_blank">mattg
 | SOC 101 - Principles of Sociology         | Introduction to understanding human behavior, social life, and social change through the perspective of sociology. |
 | PSY 101 - General Psychology         | Introduction to psychology including introductory treatment of sensation-perception-cognition, physiological psychology, learning, personality, development, social psychology, assessment, and history. |
 | ART 101 - Drawing I         | Basic course designed to offer a disciplined foundation in drawing concepts based on visual observation. |
+
+<center><h3>Website Information</h3></center>
+
+***
+
+Website maintained and modified by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a>
+
+Website hosted on GitHub Pages. 
+
+Original theme by <a href="https://twitter.com/mattgraham" target="_blank">mattgraham</a>
