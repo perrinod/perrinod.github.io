@@ -83,7 +83,9 @@ Information discord bot uses various API's to display various information when g
 <center><h5>!anime:</h5></center>
 Displays information about given anime.
 
-<iframe src="https://drive.google.com/file/d/1XC76-KKs_pct4M46PxzjYZazt378iKxs/preview" style="width: 100%; height: auto;" title="Information Discord Bot - Anime Command Image"></iframe>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/1XC76-KKs_pct4M46PxzjYZazt378iKxs/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Information Discord Bot - Anime Command Image"></iframe>
+</div>
 
 <center><h5>!catfact:</h5></center>
 Displays a random cat fact.

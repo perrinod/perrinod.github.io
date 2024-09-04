@@ -15,7 +15,6 @@ Hello, my name is Domenick Perrino.  I am a graduate of University of Nevada Las
 
 * domenick.perrino@alumni.unlv.edu
 * <a href = "https://github.com/perrinod" target="_blank"> Github </a>
-* <a href = "https://www.hackerrank.com/profile/perrinod" target="_blank"> HackerRank </a>
 <br>
 
 <center><h2>Courses Taken For B.S Computer Science</h2></center>
