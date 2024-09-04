@@ -83,7 +83,7 @@ Information discord bot uses various API's to display various information when g
 <center><h5>!anime:</h5></center>
 Displays information about given anime.
 
-<a href="https://drive.google.com/file/d/1XC76-KKs_pct4M46PxzjYZazt378iKxs/view?usp=sharing" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1ltRuEo3EPqD-ZIo1ot7I5W4hK4H8EYfq" alt="anime command image" title="information discord bot"></a>
+<a href="https://drive.google.com/file/d/1XC76-KKs_pct4M46PxzjYZazt378iKxs/view?usp=sharing" target="_blank"><img src="https://drive.google.com/uc?id=1ltRuEo3EPqD-ZIo1ot7I5W4hK4H8EYfq" alt="anime command image" title="information discord bot"></a>
 
 <center><h5>!catfact:</h5></center>
 Displays a random cat fact.
