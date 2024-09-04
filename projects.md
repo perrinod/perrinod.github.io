@@ -71,7 +71,7 @@ This is part of the output of the checkers ai program.  The images represent a s
     <iframe src="https://drive.google.com/file/d/1kOEb2amJ3vJp6OZ2zKPNhMOI3NjPYvb8/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Checkers AI Program Image"></iframe>
 </div>
 
-<p style="clear: both;"></p>
+<br>
 
 <center><h2>Information Discord Bot</h2></center>
 
@@ -370,6 +370,7 @@ Gives the user the ability to see up to 25 previously closed tabs and restore th
 *   C#
 *   Microsoft Visual Studio
 *   Unity Game Engine
+*   Godot
 *   Pyxel Edit
 
 Never Told is a point and click adventure game.  Having an art style of retro 2d pixel graphics and a story written in the style of avant-garde.
