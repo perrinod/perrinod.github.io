@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Resume"
+title: "Resume & Certificates"
 ---
 
 <Center><h1>Resume</h1></Center>
@@ -14,6 +14,7 @@ title: "Resume"
 <div style="position: relative; width: 100%; padding-top: 56.25%;">
     <iframe src="https://drive.google.com/file/d/1-94YO4o8P0nGU-8IXEpI3QLDnL6_H3Pj/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Nevada State Resume"></iframe>
 </div>
+<br>
 
 ***
 

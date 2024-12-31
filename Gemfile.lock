@@ -271,10 +271,11 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw-ucrt
   x64-mingw32
 
 DEPENDENCIES
   github-pages
 
 BUNDLED WITH
-   2.2.16
+   2.6.2

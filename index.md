@@ -12,4 +12,4 @@ Welcome to the portfolio website of a computer science graduate.  In here, you w
 * <a href="{{ site.github.about }}">About</a>
 * <a href="{{ site.github.projects }}">Projects</a>
 * <a href="{{ site.github.competitions }}">Competitions</a>
-* <a href="{{ site.github.resume }}">Resume</a>
+* <a href="{{ site.github.resume_certificates }}">Resume & Certificates</a>
