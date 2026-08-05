@@ -55,4 +55,12 @@ title: "Resume & Certificates"
 <div style="position: relative; width: 100%; padding-top: 56.25%;">
     <iframe src="https://drive.google.com/file/d/1P2hG48o8UKMC9QaDuAcqz7U3aKw21tE5/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Microsoft Beginners Guide To C# Fundamentals"></iframe>
 </div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/1ElWDyNV-ooPMlMqj9ZYTFuhwb4Bo0uQX/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Atlassian Introduction To Confluence"></iframe>
+</div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/17mCTsY6tFZa3wukFzY1Bl6LNF3nzpslb/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Atlassian Introduction To Jira"></iframe>
+</div>
 
