@@ -31,3 +31,28 @@ title: "Resume & Certificates"
 <div style="position: relative; width: 100%; padding-top: 56.25%;">
     <iframe src="https://drive.google.com/file/d/1kE6mg169jaabecKcVVebxfxdJ2b5yTK5/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Dell Technologies IT Certificate"></iframe>
 </div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/18fynFNPJtPRN5qJrDFVTePjdhue0urAn/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="IBM IT Support"></iframe>
+</div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/1Vs3aE0AXxiRl7v6pkGBPrWbI30Rs_0oX/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Google IT Automation With Python"></iframe>
+</div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/1AvwxMGBW26sbmFc6qIVVFfRdtItNoUAC/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Microsoft Python Development"></iframe>
+</div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/1SoBde8uDZrYmTV6SdUu7pXmDBZxGcvNV/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Google AI"></iframe>
+</div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/1ZZFE5woQv1JAoTtNPjN4Rc2fkKvJ-1WV/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Microsoft Introduction To C++ Programming"></iframe>
+</div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/1P2hG48o8UKMC9QaDuAcqz7U3aKw21tE5/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Microsoft Beginners Guide To C# Fundamentals"></iframe>
+</div>
+
