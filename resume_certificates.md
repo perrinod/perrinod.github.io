@@ -21,6 +21,10 @@ title: "Resume & Certificates"
 <Center><h1>Certificates</h1></Center>
 
 <div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/13GoTpbyR34EGSQNbq2BDe7ayMjp58m6k/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Google Cybersecurity"></iframe>
+</div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
     <iframe src="https://drive.google.com/file/d/1HA6_Lleq42cYN1NjjOMMLMZFiR2KMvz_/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Google IT Certificate"></iframe>
 </div>
 <br><br>
@@ -46,6 +50,10 @@ title: "Resume & Certificates"
 <br><br>
 <div style="position: relative; width: 100%; padding-top: 56.25%;">
     <iframe src="https://drive.google.com/file/d/1SoBde8uDZrYmTV6SdUu7pXmDBZxGcvNV/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Google AI"></iframe>
+</div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/17cuRt_vubCyc7cl8ilFcAIEbCwBz3NtM/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Microsoft Generative AI Engineering"></iframe>
 </div>
 <br><br>
 <div style="position: relative; width: 100%; padding-top: 56.25%;">
