@@ -53,6 +53,10 @@ title: "Resume & Certificates"
 </div>
 <br><br>
 <div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/1EqhsaTEm-IjFusOCLalPvEHRgNHPwr7b/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Google Cloud Generative AI Leader"></iframe>
+</div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
     <iframe src="https://drive.google.com/file/d/17cuRt_vubCyc7cl8ilFcAIEbCwBz3NtM/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Microsoft Generative AI Engineering"></iframe>
 </div>
 <br><br>
@@ -62,6 +66,14 @@ title: "Resume & Certificates"
 <br><br>
 <div style="position: relative; width: 100%; padding-top: 56.25%;">
     <iframe src="https://drive.google.com/file/d/1P2hG48o8UKMC9QaDuAcqz7U3aKw21tE5/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Microsoft Beginners Guide To C# Fundamentals"></iframe>
+</div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/19kMDz77ueZjZLlBtLpDe4re01hXBxJVo/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Google Cloud Digital Leader Training"></iframe>
+</div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/19xVc_IAVnlRrHp37x1Q4MT63pt2VLdkg/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Microsoft SQL Server"></iframe>
 </div>
 <br><br>
 <div style="position: relative; width: 100%; padding-top: 56.25%;">
