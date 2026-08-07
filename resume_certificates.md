@@ -18,6 +18,17 @@ title: "Resume & Certificates"
 
 ***
 
+<Center><h1>Diplomas</h1></Center>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/1mDIwpu9SRel1GIyGTfMyYi0Ad9hNVKZr/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="High School Diploma"></iframe>
+</div>
+<br><br>
+<div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/1O4TFcXWp4QrU9UTQLVU6k40fz0Agj-sa/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; transform: rotate(90deg); transform-origin: center;" title="College Diploma"></iframe>
+</div>
+
+***
+
 <Center><h1>Certificates</h1></Center>
 
 <div style="position: relative; width: 100%; padding-top: 56.25%;">
